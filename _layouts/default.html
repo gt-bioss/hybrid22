@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="generator" content="Hugo 0.80.0" />
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="./assets/main.css">
+    <meta property="og:title" content="{{ site.title }}"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="/"/>
+</head>
+
+<body class='page page-home'>
+    <div class="wrapper">
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+          <h1 id="serif---a-hugo-business-theme">{{ site.title }}</h1>
+          <p>{{ site.description }}</p>
+      </div>
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+        <img class="intro-image" src="./assets/graphics/word-cloud.svg" />
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="strip">
+  <div class="container pt-1 pb-6 pb-md-10 content">
+
+        {{ content }}
+
+  </div>
+</div>
+  </div>
+</body>
+</html>

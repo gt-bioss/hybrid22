@@ -1,0 +1,34 @@
+title: Hybrid models and methods in systems biology
+description: >- # this means to ignore newlines until "baseurl:"
+  5-6 July 2020, Institut Curie<br>
+  Amphitheatre Constant Burg<br>
+  12 rue Lhomond, Paris
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+theme: minima
+
+sass:
+  sass_dir: _sass
+    #style: compressed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - README.md
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
