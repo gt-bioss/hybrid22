@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The workshop will gather researchers from biology, applied mathematics, and computer science developing *hybrid models and methods for systems biology*, including work around hybrid formalisms like timed and hybrid automata, the coupling of models by integrating combinatorial and continuous constraints, and the use of machine learning to identify models and parameters.
+The program will cover both theoretical aspects and concrete applications to systems biology and medicine, such as the modeling of biological ryhthms, immune systems, metabolism, and cancer.
 
 ## Program
 
@@ -43,4 +44,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Organization
 
 This event is organised by <a href="http://annabelle.ballesta.fr/">Annabelle Ballesta</a> (INSERM/Institut Curie) and <a href="https://loicpauleve.name">Loïc Paulevé</a> (CNRS/LaBRI) with the support of
-<a href="http://bioss-cnrs.fr">GT Bioss</a> (CNRS), and XXX.
+<a href="http://bioss-cnrs.fr">GT Bioss</a> (CNRS), [GDR IM](), [GDR BiM](), [Société Française de Chronobiologie](http://www.sf-chronobiologie.org/).
+
+![GDR BM](/img/GDR-IM.png) ![GDR BiM](/img/GDR-BIM.png) <img src="http://www.sf-chronobiologie.org/wp-content/uploads/2014/02/logo.png" height="44">
