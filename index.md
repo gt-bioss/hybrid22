@@ -44,6 +44,6 @@ The program will cover both theoretical aspects and concrete applications to sys
 ## Organization
 
 This event is organised by <a href="http://annabelle.ballesta.fr/">Annabelle Ballesta</a> (INSERM/Institut Curie) and <a href="https://loicpauleve.name">Loïc Paulevé</a> (CNRS/LaBRI) with the support of
-<a href="http://bioss-cnrs.fr">GT Bioss</a> (CNRS), [GDR IM](), [GDR BiM](), [Société Française de Chronobiologie](http://www.sf-chronobiologie.org/).
+<a href="http://bioss-cnrs.fr">GT Bioss</a> (CNRS), [GDR IM](https://www.gdr-im.fr/), [GDR BiM](https://www.gdr-bim.cnrs.fr/), [GDR MathSAV](https://mathsav.math.cnrs.fr/).
 
-![GDR BM](/img/GDR-IM.png) ![GDR BiM](/img/GDR-BIM.png) <img src="assets/graphics/SFC.png" style="height: 60px">
+![GDR BM](/img/GDR-IM.png) ![GDR BiM](/img/GDR-BIM.png)
