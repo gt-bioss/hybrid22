@@ -9,27 +9,34 @@ The program will cover both theoretical aspects and concrete applications to sys
 
 ### Tuesday 5 July
 
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
+Lunch (buffet) from *11:45* to *12:40* (to be confirmed)
+
+* 12:45 - 12:50 *Introduction*
+* 12:50 - 13:30 **Anne-Laure Huber** (INSERM, Lyon)
+* 13:30 - 14:10 **Kiran Padmanabhan** (IGFL, ENS Lyon)
+* 14:10 - 14:30 **Julien Martinelli** (Aalto Univ, Finland)\
+*coffee break*
+* 15:00 - 15:40 **Samuel Bernard** (CNRS, UCB, Lyon)
+* 15:40 - 16:20 **Magdalena Chaves** (Inria, Nice)
+* 16:20 - 17:00 **Thao Dang** (CNRS, Verimag, Grenoble)
 
 ### Wednesday 6 July
 
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
+-  8:40 -  9:20 - **Johnathan Pol** (INSERM, Paris)
+-  9:20 - 10:00 - **Vera Pancaldi** (INSERM, Toulouse)
+- 10:00 - 10:20 - **Vincent Noël** (Institut Curie, Paris)\
+*coffee break*
+- 10:50 - 11:30 - **Ovidiu Radulescu** (LPHI, Univ Montpellier)
+- 11:30 - 12:10 - **Fabien Crauste** (CNRS, MAP5, Paris)
 
-(lunch)
+Lunch
 
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
-* **13:00** Name 1 (Aff1) "Title"
+- 13:45 - 14:25 - **Sophie Vasseur** (INSERM, CRCM Marseille)
+- 14:25 - 15:05 - **Angélique Stéphanou** (CNRS, TIMC, Grenoble)
+*coffee break*
+- 15:35 - 16:05 - **Sabine Péres** (LBBE, Univ Lyon)
+- 16:05 - 16:25 - **Kerian Thuillier** (IRISA, Rennes)
+
 
 ## Venue
 
