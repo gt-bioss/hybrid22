@@ -17,7 +17,7 @@ Lunch (buffet) from *11:45* to *12:40* (to be confirmed)
 * 14:10 - 14:30 **Julien Martinelli** (Aalto Univ, Finland)\
 *coffee break*
 * 15:00 - 15:40 **Samuel Bernard** (CNRS, UCB, Lyon)
-* 15:40 - 16:20 **Magdalena Chaves** (Inria, Nice)
+* 15:40 - 16:20 **Madalena Chaves** (Inria, Nice)
 * 16:20 - 17:00 **Thao Dang** (CNRS, Verimag, Grenoble)
 
 ### Wednesday 6 July
