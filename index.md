@@ -22,7 +22,6 @@ Lunch (buffet) from *11:45* to *12:40* (to be confirmed)
 
 ### Wednesday 6 July
 
- 
 -  8:40 -  9:20 - **Johnathan Pol** (INSERM, Paris)
 -  9:20 - 10:00 - **Vera Pancaldi** (INSERM, Toulouse)
 - 10:00 - 10:20 - **Vincent Noël** (Institut Curie, Paris)\
