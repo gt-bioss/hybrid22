@@ -5,7 +5,7 @@
    version="1.1"
    id="svg64"
    sodipodi:docname="word-cloud.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.1218182"
-     inkscape:cx="364.141"
-     inkscape:cy="90.923825"
+     inkscape:cx="365.92382"
+     inkscape:cy="92.706644"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -66,7 +66,7 @@
        transform="translate(131,5)"
        id="text18">applications</text>
     <text
-       style="font-family:Roboto;fill:#810025;font-size:18.66666667px;fill-opacity:1"
+       style="font-size:37.3333px;font-family:Roboto;fill:#810025;fill-opacity:1"
        text-anchor="middle"
        transform="translate(-182,-22)"
        id="text20">cancer</text>
@@ -76,12 +76,12 @@
        transform="translate(-143,-84)"
        id="text22">circadian clock</text>
     <text
-       style="font-family:Roboto;fill:#810025;font-size:18.66666667px;fill-opacity:1"
+       style="font-size:24px;font-family:Roboto;fill:#810025;fill-opacity:1"
        text-anchor="middle"
        transform="translate(105,28)"
        id="text24">metabolism</text>
     <text
-       style="font-size:18.6667px;font-family:Roboto;fill:#810025;fill-opacity:1"
+       style="font-size:24px;font-family:Roboto;fill:#810025;fill-opacity:1"
        text-anchor="middle"
        id="text26"
        x="-48.533337"
@@ -124,7 +124,7 @@
        transform="translate(140,-105)"
        id="text40">systems</text>
     <text
-       style="font-size:18.6667px;font-family:Roboto;fill:#810025;fill-opacity:1"
+       style="font-size:29.3333px;font-family:Roboto;fill:#810025;fill-opacity:1"
        text-anchor="middle"
        id="text42"
        x="-245.4026"
