@@ -11,6 +11,8 @@ The program will cover both theoretical aspects and concrete applications to sys
 
 Lunch (buffet) from *11:45* to *12:40* (to be confirmed)
 
+Session **Biological rythms**
+
 * 12:45 - 12:50 *Introduction*
 * 12:50 - 13:30 **Anne-Laure Huber** (INSERM, Lyon)
 * 13:30 - 14:10 **Kiran Padmanabhan** (IGFL, ENS Lyon)
@@ -22,14 +24,18 @@ Lunch (buffet) from *11:45* to *12:40* (to be confirmed)
 
 ### Wednesday 6 July
 
--  8:40 -  9:20 - **Johnathan Pol** (INSERM, Paris)
--  9:20 - 10:00 - **Vera Pancaldi** (INSERM, Toulouse)
-- 10:00 - 10:20 - **Vincent Noël** (Institut Curie, Paris)\
+Session **Immunity**
+
+-  8:45 -  9:25 - **Johnathan Pol** (INSERM, Paris)
+-  9:25 - 10:05 - **Vera Pancaldi** (INSERM, Toulouse)
+- 10:05 - 10:25 - **Vincent Noël** (Institut Curie, Paris)\
 *coffee break*
-- 10:50 - 11:30 - **Ovidiu Radulescu** (LPHI, Univ Montpellier)
-- 11:30 - 12:10 - **Fabien Crauste** (CNRS, MAP5, Paris)
+- 10:55 - 11:35 - **Ovidiu Radulescu** (LPHI, Univ Montpellier)
+- 11:35 - 12:15 - **Fabien Crauste** (CNRS, MAP5, Paris)
 
 Lunch
+
+Session **Metabolism**
 
 - 13:45 - 14:25 - **Sophie Vasseur** (INSERM, CRCM Marseille)
 - 14:25 - 15:05 - **Angélique Stéphanou** (CNRS, TIMC, Grenoble)\
