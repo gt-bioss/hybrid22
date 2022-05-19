@@ -25,25 +25,25 @@ Session **Biological rythms**
 *coffee break*
 * 15:00 - 15:40 **Samuel Bernard** (CNRS, UCB, Lyon)
 * 15:40 - 16:20 **Madalena Chaves** (Inria, Nice)
-* 16:20 - 17:00 **Thao Dang** (CNRS, Verimag, Grenoble)
+* 16:20 - 17:00 **Thao Dang** (CNRS, Verimag, Grenoble): Hybrid Systems Reachability Analysis for Biological Systems Modelling
 
 ### Wednesday 6 July
 
-Session **Immunity**
+Session **Immunity, Metabolism**
 
 -  8:45 -  9:25 - **Johnathan Pol** (INSERM, Paris)
 -  9:25 - 10:05 - **Vera Pancaldi** (INSERM, Toulouse)
-- 10:05 - 10:25 - **Vincent Noël** (Institut Curie, Paris)\
+- 10:05 - 10:25 - **Vincent Noël** (Institut Curie, Paris): PhysiBoSS, an agent-based framework with boolean intracellular signalling \
 *coffee break*
-- 10:55 - 11:35 - **Ovidiu Radulescu** (LPHI, Univ Montpellier)
-- 11:35 - 12:15 - **Fabien Crauste** (CNRS, MAP5, Paris)
+- 10:55 - 11:35 - **Fabien Crauste** (CNRS, MAP5, Paris)
+- 11:35 - 12:15 - **Ovidiu Radulescu** (LPHI, Univ Montpellier)
 
 Lunch
 
 Session **Metabolism**
 
 - 13:45 - 14:25 - **Sophie Vasseur** (INSERM, CRCM Marseille)
-- 14:25 - 15:05 - **Angélique Stéphanou** (CNRS, TIMC, Grenoble)\
+- 14:25 - 15:05 - **Angélique Stéphanou** (CNRS, TIMC, Grenoble): Investigation of metabolic heterogeneity in tumor spheroids with a hybrid multi-scale model\
 *coffee break*
 - 15:35 - 16:05 - **Sabine Péres** (LBBE, Univ Lyon)
 - 16:05 - 16:25 - **Kerian Thuillier** (IRISA, Rennes)
