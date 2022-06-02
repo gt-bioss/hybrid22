@@ -4,11 +4,10 @@ layout: default
 
 The workshop will gather researchers from biology, applied mathematics, and computer science developing *hybrid models and methods for systems biology and medicine*, including work around hybrid formalisms like timed and hybrid automata, the coupling of models by integrating combinatorial and continuous constraints, and the use of machine learning to design models and identify their parameters. The program will cover both theoretical aspects and concrete applications to systems biology and medicine, in the field of biological ryhthms, the immune system, metabolism, and cancer.
 
+
 ## Registration
 
-Registration is free but mandatory: [registration](https://framaforms.org/hybrid-models-and-methods-in-systems-medicine-registration-1649235204).
-
-Please register **before June 1st**, as the number of attendants is limited. Moreover, we will be able to cover the travel and accommodation for a couple of young researchers (more information in the registration form).
+Registration is closed.
 
 ## Program
 
