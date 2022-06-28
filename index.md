@@ -20,7 +20,7 @@ Session **Biological rythms**
 * 12:45 - 12:50 *Introduction*
 * 12:50 - 13:30 **Anne-Laure Huber** (INSERM, Lyon)
 * 13:30 - 14:10 **Kiran Padmanabhan** (IGFL, ENS Lyon)
-* 14:10 - 14:30 **Julien Martinelli** (Aalto Univ, Finland)\
+* 14:10 - 14:30 **Julien Martinelli** (Aalto Univ, Finland): Model learning to identify systemic regulators of the peripheral circadian clock\
 *coffee break*
 * 15:00 - 15:40 **Samuel Bernard** (CNRS, UCB, Lyon)
 * 15:40 - 16:20 **Madalena Chaves** (Inria, Nice)
@@ -41,11 +41,11 @@ Lunch
 
 Session **Metabolism**
 
-- 13:45 - 14:25 - **Sophie Vasseur** (INSERM, CRCM Marseille)
+- 13:45 - 14:25 - **Sophie Vasseur** (INSERM, CRCM Marseille): Targeting metabolic pathways that promote pancreatic cancer cells aggressiveness
 - 14:25 - 15:05 - **Angélique Stéphanou** (CNRS, TIMC, Grenoble): Investigation of metabolic heterogeneity in tumor spheroids with a hybrid multi-scale model\
 *coffee break*
 - 15:35 - 16:05 - **Sabine Péres** (LBBE, Univ Lyon)
-- 16:05 - 16:25 - **Kerian Thuillier** (IRISA, Rennes)
+- 16:05 - 16:25 - **Kerian Thuillier** (IRISA, Rennes): MERRIN: MEtabolic Regulation Rule INference from time series
 
 
 ## Venue
