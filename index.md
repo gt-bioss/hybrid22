@@ -13,7 +13,7 @@ Registration is closed.
 
 ### Tuesday 5 July
 
-Lunch (buffet) from *11:45* to *12:40* (to be confirmed)
+Lunch (buffet) from *11:45* to *12:40*
 
 Session **Biological rythms**
 
