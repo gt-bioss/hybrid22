@@ -18,24 +18,24 @@ Lunch (buffet) from *11:45* to *12:40*
 Session **Biological rythms**
 
 * 12:45 - 12:50 *Introduction*
-* 12:50 - 13:30 **Anne-Laure Huber** (INSERM, Lyon)
-* 13:30 - 14:10 **Kiran Padmanabhan** (IGFL, ENS Lyon)
+* 12:50 - 13:30 **Anne-Laure Huber** (INSERM, Lyon): Defining the molecular connection between the circadian clock and NLRP3: Implication for Lung cancer treatments
+* 13:30 - 14:10 **Kiran Padmanabhan** (IGFL, ENS Lyon): Circadian dynamics in chromatin state
 * 14:10 - 14:30 **Julien Martinelli** (Aalto Univ, Finland): Model learning to identify systemic regulators of the peripheral circadian clock\
 *coffee break*
-* 15:00 - 15:40 **Samuel Bernard** (CNRS, UCB, Lyon)
-* 15:40 - 16:20 **Madalena Chaves** (Inria, Nice)
+* 15:00 - 15:40 **Samuel Bernard** (CNRS, UCB, Lyon): TBA
+* 15:40 - 16:20 **Madalena Chaves** (Inria, Nice): Differentiation, Heterogeneity, and Multiscale Descriptions of the CD8 T Cell Immune Response
 * 16:20 - 17:00 **Thao Dang** (CNRS, Verimag, Grenoble): Hybrid Systems Reachability Analysis for Biological Systems Modelling
 
 ### Wednesday 6 July
 
 Session **Immunity, Metabolism**
 
--  8:45 -  9:25 - **Johnathan Pol** (INSERM, Paris)
--  9:25 - 10:05 - **Vera Pancaldi** (INSERM, Toulouse)
+-  8:45 -  9:25 - **Johnathan Pol** (INSERM, Paris): TBA
+-  9:25 - 10:05 - **Vera Pancaldi** (INSERM, Toulouse): Integrative regulatory models in immuno-oncology: the long path towards data-driven approaches
 - 10:05 - 10:25 - **Vincent Noël** (Institut Curie, Paris): PhysiBoSS, an agent-based framework with boolean intracellular signalling \
 *coffee break*
-- 10:55 - 11:35 - **Fabien Crauste** (CNRS, MAP5, Paris)
-- 11:35 - 12:15 - **Ovidiu Radulescu** (LPHI, Univ Montpellier)
+- 10:55 - 11:35 - **Fabien Crauste** (CNRS, MAP5, Paris): Differentiation, Heterogeneity, and Multiscale Descriptions of the CD8 T Cell Immune Response
+- 11:35 - 12:15 - **Ovidiu Radulescu** (LPHI, Univ Montpellier): Hybrid modeling at the mesoscale
 
 Lunch
 
@@ -44,7 +44,7 @@ Session **Metabolism**
 - 13:45 - 14:25 - **Sophie Vasseur** (INSERM, CRCM Marseille): Targeting metabolic pathways that promote pancreatic cancer cells aggressiveness
 - 14:25 - 15:05 - **Angélique Stéphanou** (CNRS, TIMC, Grenoble): Investigation of metabolic heterogeneity in tumor spheroids with a hybrid multi-scale model\
 *coffee break*
-- 15:35 - 16:05 - **Sabine Péres** (LBBE, Univ Lyon)
+- 15:35 - 16:05 - **Sabine Péres** (LBBE, Univ Lyon): TBA
 - 16:05 - 16:25 - **Kerian Thuillier** (IRISA, Rennes): MERRIN: MEtabolic Regulation Rule INference from time series
 
 
