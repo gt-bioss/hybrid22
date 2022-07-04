@@ -22,7 +22,7 @@ Session **Biological rythms**
 * 13:30 - 14:10 **Kiran Padmanabhan** (IGFL, ENS Lyon): Circadian dynamics in chromatin state
 * 14:10 - 14:30 **Julien Martinelli** (Aalto Univ, Finland): Model learning to identify systemic regulators of the peripheral circadian clock\
 *coffee break*
-* 15:00 - 15:40 **Samuel Bernard** (CNRS, UCB, Lyon): TBA
+* 15:00 - 15:40 **Samuel Bernard** (CNRS, UCB, Lyon): Simuscale: A modular framework for multiscale single-cell modelling
 * 15:40 - 16:20 **Madalena Chaves** (Inria, Nice): Differentiation, Heterogeneity, and Multiscale Descriptions of the CD8 T Cell Immune Response
 * 16:20 - 17:00 **Thao Dang** (CNRS, Verimag, Grenoble): Hybrid Systems Reachability Analysis for Biological Systems Modelling
 
@@ -30,8 +30,8 @@ Session **Biological rythms**
 
 Session **Immunity, Metabolism**
 
--  8:45 -  9:25 - **Johnathan Pol** (INSERM, Paris): TBA
--  9:25 - 10:05 - **Vera Pancaldi** (INSERM, Toulouse): Integrative regulatory models in immuno-oncology: the long path towards data-driven approaches
+-  8:45 -  9:25 - **Johnathan Pol** (INSERM, Paris): Modeling of cancer immunogenic cell death
+-  9:25 - 10:05 - **Vera Pancaldi** (INSERM, Toulouse): Integrative regulatory models in immuno-oncology: the long path towards data-driven approaches
 - 10:05 - 10:25 - **Vincent Noël** (Institut Curie, Paris): PhysiBoSS, an agent-based framework with boolean intracellular signalling \
 *coffee break*
 - 10:55 - 11:35 - **Fabien Crauste** (CNRS, MAP5, Paris): Differentiation, Heterogeneity, and Multiscale Descriptions of the CD8 T Cell Immune Response
