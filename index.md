@@ -23,7 +23,7 @@ Session **Biological rythms**
 * 14:10 - 14:30 **Julien Martinelli** (Aalto Univ, Finland): Model learning to identify systemic regulators of the peripheral circadian clock\
 *coffee break*
 * 15:00 - 15:40 **Samuel Bernard** (CNRS, UCB, Lyon): Simuscale: A modular framework for multiscale single-cell modelling
-* 15:40 - 16:20 **Madalena Chaves** (Inria, Nice): Differentiation, Heterogeneity, and Multiscale Descriptions of the CD8 T Cell Immune Response
+* 15:40 - 16:20 **Madalena Chaves** (Inria, Nice): Dynamics, synchronization, and oscillator interactions for models of the circadian clock
 * 16:20 - 17:00 **Thao Dang** (CNRS, Verimag, Grenoble): Hybrid Systems Reachability Analysis for Biological Systems Modelling
 
 ### Wednesday 6 July
