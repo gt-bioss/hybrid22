@@ -44,7 +44,7 @@ Session **Metabolism**
 - 13:45 - 14:25 - **Sophie Vasseur** (INSERM, CRCM Marseille): Targeting metabolic pathways that promote pancreatic cancer cells aggressiveness
 - 14:25 - 15:05 - **Angélique Stéphanou** (CNRS, TIMC, Grenoble): Investigation of metabolic heterogeneity in tumor spheroids with a hybrid multi-scale model\
 *coffee break*
-- 15:35 - 16:05 - **Sabine Péres** (LBBE, Univ Lyon): TBA
+- 15:35 - 16:05 - **Sabine Péres** (LBBE, Univ Lyon): Hybrid metabolic modeling to identify new control strategies of living organisms
 - 16:05 - 16:25 - **Kerian Thuillier** (IRISA, Rennes): MERRIN: MEtabolic Regulation Rule INference from time series
 
 
